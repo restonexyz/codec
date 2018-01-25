@@ -6,13 +6,13 @@ int main()
 {
     // 伤害
     double attach=56.88; //攻击力
-    double attchADD = 4.5; //增加伤害
+    double attchAdd = 4.5; //增加伤害
     int attachRange=172;// 攻击距离
 
 
     printf("Hello world!\n");
     printf("名称：德玛西亚之力·盖伦\n");
-    printf("伤害：%.2lf(%+.1lf)\t攻击距离：%d\n",ac);
+    printf("伤害：%.2lf(%+.1lf)\t攻击距离：%d\n",attach,attchAdd,attachRange);
     printf("护甲：27.536(+3.0)\t魔    抗：32.1(1.25)\n");
     printf("生命：416.28(+84.25)\t生命回复：7.84(0.5)\n");
     printf("法力：0.0(+0.0)\t法力回复：0.0(0.0)\n");
