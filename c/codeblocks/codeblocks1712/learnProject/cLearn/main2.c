@@ -1,15 +1,16 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 #include <stdlib.h>
 
-// standared ±ê×¼
-// input output ÊäÈë/Êä³ö printf("Hello world2!\n"); printf("Hello world2!\n");
-// header Í· .hÍ·ÎÄ¼þ
+// standared æ ‡å‡†
+// input output è¾“å…¥/è¾“å‡º printf("Hello world2!\n"); printf("Hello world2!\n");
+// header å¤´ .hå¤´æ–‡ä»¶
 
-// char ÀàÐÍÁ·Ï°
-int main2()  // ·µ»Øint£¬Èç¹ûÊÇvoid±íÊ¾Ã»ÓÐ·µ»Ø
+// char ç±»åž‹ç»ƒä¹ 
+int main2()  // è¿”å›žintï¼Œå¦‚æžœæ˜¯voidè¡¨ç¤ºæ²¡æœ‰è¿”å›ž
 {
     printf("Hello world!\n");
-    printf("Hello ÄãºÃ2!\n");
+    printf("Hello ä½ å¥½2!\n");
+
 
     char ch = 'A';
     printf("aaa %c\n",ch);

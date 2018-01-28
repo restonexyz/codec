@@ -6,7 +6,8 @@ int main()
 {
     // 调用方法
      main2();
-     claszz(0);
+     ascii();
+     testAtoa();
 
     // 伤害
     double attach=56.88; //攻击力
