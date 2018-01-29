@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <stdlib.h>
 // C语言代码
 // C语言代码
@@ -13,9 +13,6 @@ int main()
     double attach=56.88; //攻击力
     double attchAdd = 4.5; //增加伤害
     int attachRange=172;// 攻击距离
-
-
-
 
     printf("Hello world!\n");
     printf("名称：德玛西亚之力·盖伦\n");
