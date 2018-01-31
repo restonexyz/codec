@@ -33,17 +33,16 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="include/test.h" />
+		<Unit filename="include/claszz.h" />
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main2.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/ascii.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="src/main2.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="src/test.cpp" />
 		<Unit filename="src/testAtoa.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -51,7 +50,6 @@
 			<code_completion />
 			<envvars />
 			<debugger />
-			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
