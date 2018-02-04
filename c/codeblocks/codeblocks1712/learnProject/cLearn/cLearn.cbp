@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
@@ -41,6 +41,9 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/ascii.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/cgames/cgames_.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/testAtoa.c">
